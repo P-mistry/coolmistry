@@ -9,5 +9,5 @@
 
 - ⚡ Fun fact **Coffee gives brain boster **
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iparrth-io&show_icons=true&locale=en&layout=compact" alt="iparrth-io" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=coolmistry&show_icons=true&locale=en&layout=compact" alt="coolmistry" /></p>
 
